@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_news"
+        android:icon="@drawable/news"
+        android:title="News" />
+
+    <item
+        android:id="@+id/navigation_event"
+        android:icon="@drawable/event"
+        android:title="Events" />
+
+    <item
+        android:id="@+id/navigation_historical_archive"
+        android:icon="@drawable/historical_archives"
+        android:title="Historical Archives" />
+
+</menu>
